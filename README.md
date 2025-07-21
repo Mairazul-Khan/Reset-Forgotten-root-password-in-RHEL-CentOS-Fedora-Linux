@@ -47,6 +47,10 @@ OR
 reboot -f
 ```
 
+## 📂 Author
+- Created by **Mairazul Khan**
+
+
 ## 🔐 Notes
 - Ensure physical access to the system or console access via virtualization.
 - This method works for most RHEL, CentOS, and Fedora versions using GRUB2.
